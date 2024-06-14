@@ -1,0 +1,1 @@
+FROM ghcr.io/buoyantio/proxy-init:v2.2.4

@@ -1,0 +1,1 @@
+FROM ghcr.io/buoyantio/controller:enterprise-2.15.4
